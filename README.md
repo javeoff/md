@@ -11,6 +11,8 @@
 
 _Italic text here_
 ~~Strikethrough text~~
+__Strong text__ or **Strong text**
+___Strong курсивный text___ or ***Strong emphasized text***
 
 ![Javeoff](https://avatars.githubusercontent.com/u/62588539?s=460&u=6da282f8205d65c403c99dc37fc1728998c3fc8f&v=4){width=640 height=480}
 
@@ -66,3 +68,8 @@ Hotkey list:
 | Right | → |
 
 [Go To TOP](#TOP)
+
+    Markup : <details>
+               <summary>Title 1</summary>
+               <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+             </details>
